@@ -1,0 +1,12 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "In this exercise, few practical tests for JavaScript functions using the Jest library. Follow the AAA pattern to make tests easier for other developers to read and understand. Try to use the TDD approach in practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
